@@ -7,7 +7,7 @@ public class MyTest {
 		System.out.println("Git Test By Jin");
 		System.out.println("Git Test 2");  
 		
-		
+		System.out.println("Git Test 3");
 		
 		
 	}
